@@ -1,0 +1,4 @@
+bin/bridge.sh
+RECYCLE_BIN/*
+.DS_Store
+*.log
